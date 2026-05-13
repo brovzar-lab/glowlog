@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+web-build/
+dist/
+*.log
+.env
+.env.local
+functions/node_modules/
+functions/lib/
